@@ -1,20 +1,26 @@
-<h1 align="center">Hi 👋, I'm Paing Zin Ye Maung</h1>
-<h3 align="center">A passionate full stack web developer from Myanmar</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paingzinyemaung&label=Profile%20views&color=0e75b6&style=flat" alt="paingzinyemaung" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20🚀&fontSize=50&fontAlignY=40&animation=fadeIn" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paingzinyemaung" alt="paingzinyemaung" /></a> </p>
+## 👨‍💻 Full Stack Web Developer
+*Turning ideas into reality with modern web technologies.*
 
-- 🌱 I’m currently learning **React, Node.js, Express, MongoDB**
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paingzinyemaung)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paingzinyemaung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paingzinyemaung" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🛠 Technical Arsenal
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paingzinyemaung&show_icons=true&locale=en&layout=compact" alt="paingzinyemaung" /></p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,vscode" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paingzinyemaung&show_icons=true&locale=en" alt="paingzinyemaung" /></p>
+<br><br>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%20is%20bad.&author=Cory%20House)](https://github.com/PiyushSuthar/github-readme-quotes)
+
+<br>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=paingzinyemaung&show_icons=true&theme=tokyonight&count_private=true)
+
+</div>
