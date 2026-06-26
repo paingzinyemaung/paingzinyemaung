@@ -13,7 +13,7 @@
 ## 🛠 Technical Arsenal
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,tailwindcss,react,nodejs,express,mongodb,git,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,tailwindcss,react,nodejs,express,mongodb,git" />
 
 <br><br>
 
